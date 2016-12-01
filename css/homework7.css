@@ -22,10 +22,10 @@ a{
 }
 .images{
     position: absolute;
-    left: 0;
+    left: -220px;
     top: 0;
     height: 312px;
-    width: 2420px;
+    width: 2860px;
 }
 #lefta{
     top: 127px;
@@ -67,7 +67,7 @@ a{
     left: 35px;
 }
 
-.b0{
+.b1{
     background-color: rgba(100,200,200,1);
 }/*.b2{
     left:20px;
